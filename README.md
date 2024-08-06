@@ -4,7 +4,7 @@
   <span style="display: block; font-weight: bold; font-size: 24px;">ChatOS</span>
 </p>
 
-ChatOS is an open-source, ad-free chatting app with a great looking UI design. It offers a clean, modern interface that enhances the user experience. Users can enjoy seamless communication without the distraction of ads. The open-source nature of the app allows for community-driven improvements and customizations. This app stands out for its emphasis on privacy, user control, and aesthetic appeal. Whether you're chatting with friends or collaborating with colleagues, Messenger provides a reliable and visually appealing platform.
+ChatOS is an open-source, ad-free chatting app with a great looking UI design. It offers a clean, modern interface that enhances the user experience. Users can enjoy seamless communication without the distraction of ads.
 
 ## Features
 
