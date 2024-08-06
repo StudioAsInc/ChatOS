@@ -1,8 +1,5 @@
 <p style="text-align: center;">
   <img src="https://i.ibb.co/kBb46BC/icon.png" alt="Messenger Logo" width="100"/>
-  <br/>
-  <span style="display: block; font-weight: bold; font-size: 24px;">ChatOS</span>
-</p>
 
 ChatOS is an open-source, ad-free chatting app with a great looking UI design. It offers a clean, modern interface that enhances the user experience. Users can enjoy seamless communication without the distraction of ads.
 
