@@ -1,5 +1,3 @@
-# ChatOS
-An open-source chatting app
 <p style="text-align: center;">
   <img src="https://i.ibb.co/kBb46BC/icon.png" alt="Messenger Logo" width="100"/>
   <br/>
