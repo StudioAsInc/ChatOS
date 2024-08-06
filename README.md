@@ -5,7 +5,13 @@ ChatOS is an open-source, ad-free chatting app with a great looking UI design. I
 
 ## Download
 
-
+<p style="text-align: center;">
+  <img src="https://i.ibb.co/kBb46BC/icon.png" alt="Messenger Logo" width="100"/>
+  <br/>
+  <span style="display: block; font-weight: bold; font-size: 24px;">ChatOS</span>
+  <br/>
+  <a href="https://github.com/StudioAsInc/ChatOS/releases/tag/ChatOS" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007BFF; text-decoration: none; border-radius: 5px;">Download</a>
+</p>
 
 ## Features
 
