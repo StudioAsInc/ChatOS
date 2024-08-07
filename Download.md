@@ -38,7 +38,12 @@ With a newer releases app will be more better and stable.
 
 ## What's new?
 
-| **Feature**          | **Before**                | **After**                  |
-|----------------------|----------------------------|----------------------------|
-| **App Name**         | Chat+                    | ChatOS                     |
-| **Restrictions**     | Applied                    | Removed                    |
+| **What's New**                        | **Details**                                    |
+|---------------------------------------|------------------------------------------------|
+| **App Name Changed**                  | Rebranded to "ChatOS"                         |
+| **Permission Manager Added**          | New feature for managing app permissions      |
+| **Firebase Settings Updated**         | Configuration settings updated                |
+| **Project Name Updated**              | Revised project name                          |
+| **App Version Updated**               | Version number changed                        |
+| **App Name on Splash Screen**         | Name now appears on the splash screen         |
+| **Beta Restrictions Removed**         | Restrictions for beta testing lifted          |
