@@ -1,7 +1,10 @@
 <p style="text-align: center;">
-  <img src="https://i.ibb.co/wLvPGf7/20240807-115138.png" alt="Messenger Logo" width="100"/>
+  <img src="https://i.ibb.co/wLvPGf7/20240807-115138.png" alt="Messenger Logo" width="300"/>
 
-ChatOS is an open-source, ad-free chatting app with a great looking UI design. It offers a clean, modern interface that enhances the user experience. Users can enjoy seamless communication without the distraction of ads.
+An open-source, ad-free chatting app with a great looking UI design. It offers a clean, modern interface that enhances the user experience. Users can enjoy seamless communication without the distraction of ads.
+
+## Why ChatOS?
+There are many chatting app at the market eg. Telegram, Messenger from meta, whatsapp. But unfortunately none of these are ads free, some need to be paid for use. ChatOS is open-source so it's publicly proven to be secure and also It's has no ads.
 
 ## Releases
 
