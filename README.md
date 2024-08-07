@@ -3,10 +3,35 @@
 
 An open-source, ad-free chatting app with a great looking UI design. It offers a clean, modern interface that enhances the user experience. Users can enjoy seamless communication without the distraction of ads.
 
-## Why ChatOS?
+## Why choose ChatOS?
 There are many chatting app at the market eg. Telegram, Messenger from meta, whatsapp. But unfortunately none of these are ads free, some need to be paid for use. ChatOS is open-source so it's publicly proven to be secure and also It's has no ads.
 
-## Releases
+## Download
+
+We're regularly pushing update, We recommend you to download the leatest released version of ChatOS.
+
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <tr style="border-bottom: 1px solid #ddd;">
+    <th style="padding: 8px;">Attribute</th>
+    <th style="padding: 8px;">Details</th>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">App Name</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">ChatOS</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Package Name</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">com.messenger.studioas</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Download Size</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">~15 MB</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Latest Version</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">1.0 (nightmare)</td>
+  </tr>
+</table>
 
 <p style="text-align: center;">
 <p style="text-align: center;">
@@ -15,7 +40,7 @@ There are many chatting app at the market eg. Telegram, Messenger from meta, wha
   </a>
 </p>
 
-With a newer releases app will be more better and stable. Please, try to download the leatest released app.
+With a newer releases app will be more better and stable.
 
 ## Features
 
