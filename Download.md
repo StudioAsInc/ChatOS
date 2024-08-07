@@ -26,7 +26,7 @@ We're regularly pushing update, we recommend you to download the leatest release
 </table>
 <p style="text-align: center;">
 <p style="text-align: center;">
-  <a href="https://github.com/StudioAsInc/ChatOS/releases/tag/ChatOS" style="display: inline-block;">
+  <a href="[https://github.com/StudioAsInc/ChatOS/releases/tag/ChatOS](https://github.com/StudioAsInc/ChatOS/releases/download/ChatOS/pre-alpha_v1.0.apk)" style="display: inline-block;">
     <img src="https://i.ibb.co/9GDfND7/20240807-114005.png" alt="Download Button" style="width: 100%; max-width: 150px; display: block; margin: 0 auto;"/>
   </a>
 </p>
