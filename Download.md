@@ -24,7 +24,6 @@ We're regularly pushing update, we recommend you to download the leatest release
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">1.0 (nightmare)</td>
   </tr>
 </table>
-
 <p style="text-align: center;">
 <p style="text-align: center;">
   <a href="https://github.com/StudioAsInc/ChatOS/releases/tag/ChatOS" style="display: inline-block;">
@@ -33,3 +32,13 @@ We're regularly pushing update, we recommend you to download the leatest release
 </p>
 
 With a newer releases app will be more better and stable.
+
+
+
+
+## What's new?
+
+| **Feature**          | **Before**                | **After**                  |
+|----------------------|----------------------------|----------------------------|
+| **App Name**         | Chat+                    | ChatOS                     |
+| **Restrictions**     | Applied                    | Removed                    |
