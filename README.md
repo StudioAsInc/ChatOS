@@ -48,15 +48,15 @@ With a newer releases app will be more better and stable.
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
     <img src="https://i.ibb.co/9wrCLdW/Screenshot-20240807-122715-Chat-OS.jpg" alt="Screenshot 1" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
-    <p style="text-align: center;">Screenshot 1: Example description of what is shown in the screenshot.</p>
+    <p style="text-align: center;">Splashscreen: Animation app intro screen with a cool ripple effect.</p>
   </div>
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
     <img src="https://i.ibb.co/6y09qXc/Screenshot-20240807-121642-Chat-OS.jpg" alt="Screenshot 2" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
-    <p style="text-align: center;">Screenshot 2: Example description of what is shown in the screenshot.</p>
+    <p style="text-align: center;">Account creation terms: This is a screen where user have to agree the account creation terms & conditions.</p>
   </div>
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
     <img src="https://i.ibb.co/sb8wtjt/Screenshot-20240807-121638-Chat-OS.jpg" alt="Screenshot 3" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
-    <p style="text-align: center;">Screenshot 3: Example description of what is shown in the screenshot.</p>
+    <p style="text-align: center;">Login screen: This is the page where you can login to your existing ChatOS account</p>
   </div>
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
     <img src="https://i.ibb.co/rGM62mp/Screenshot-20240807-121648-Chat-OS.jpg" alt="Screenshot 4" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
