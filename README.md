@@ -42,6 +42,62 @@ We're regularly pushing update, we recommend you to download the leatest release
 
 With a newer releases app will be more better and stable.
 
+
+<h2>App Screenshots</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/9wrCLdW/Screenshot-20240807-122715-Chat-OS.jpg" alt="Screenshot 1" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 1: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/6y09qXc/Screenshot-20240807-121642-Chat-OS.jpg" alt="Screenshot 2" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 2: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/sb8wtjt/Screenshot-20240807-121638-Chat-OS.jpg" alt="Screenshot 3" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 3: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/rGM62mp/Screenshot-20240807-121648-Chat-OS.jpg" alt="Screenshot 4" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 4: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/b5rsj2S/Screenshot-20240807-121811-Chat-OS.jpg" alt="Screenshot 5" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 5: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/hW1Zd5r/Screenshot-20240807-121823-Chat-OS.jpg" alt="Screenshot 6" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 6: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/wz3gK34/Screenshot-20240807-121819-Chat-OS.jpg" alt="Screenshot 7" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 7: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/G3rhL3t/Screenshot-20240807-121833-Chat-OS.jpg" alt="Screenshot 8" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 8: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/wKLstBw/Screenshot-20240807-121839-Chat-OS.jpg" alt="Screenshot 9" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 9: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/CV1f009/Screenshot-20240807-121845-Chat-OS.jpg" alt="Screenshot 10" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 10: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/Kwbb58p/Screenshot-20240807-121900-Chat-OS.jpg" alt="Screenshot 11" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 11: Example description of what is shown in the screenshot.</p>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box;">
+    <img src="https://i.ibb.co/yBwpc0t/Screenshot-20240807-121905-Chat-OS.jpg" alt="Screenshot 12" style="width: 100%; height: auto; border-radius: 20px; border: 2px solid #ddd;"/>
+    <p style="text-align: center;">Screenshot 12: Example description of what is shown in the screenshot.</p>
+  </div>
+</div>
+
+
+
 ## Features
 
 Sure, here's a table with the features of Messenger:
