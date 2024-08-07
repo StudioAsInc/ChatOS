@@ -8,7 +8,7 @@ There are many chatting app at the market eg. Telegram, Messenger from meta, wha
 
 ## Download
 
-We're regularly pushing update, We recommend you to download the leatest released version of ChatOS.
+We're regularly pushing update, we recommend you to download the leatest released version of ChatOS.
 
 <table style="width: 100%; border-collapse: collapse; text-align: left;">
   <tr style="border-bottom: 1px solid #ddd;">
