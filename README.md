@@ -136,7 +136,7 @@ What to know more?
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Telegram</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://t.me/IamAshik_tg">@IamAshik_tg</a></td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://t.me/IamAshik_tg">IamAshik_tg</a></td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Facebook</td>
