@@ -1,17 +1,18 @@
 <p style="text-align: center;">
-  <img src="https://i.ibb.co/kBb46BC/icon.png" alt="Messenger Logo" width="100"/>
+  <img src="https://i.ibb.co/wLvPGf7/20240807-115138.png" alt="Messenger Logo" width="100"/>
 
 ChatOS is an open-source, ad-free chatting app with a great looking UI design. It offers a clean, modern interface that enhances the user experience. Users can enjoy seamless communication without the distraction of ads.
 
 ## Releases
-<p style="text-align: center;">
-  <a href="https://github.com/StudioAsInc/ChatOS/releases/tag/ChatOS" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007BFF; text-decoration: none; border-radius: 5px;">See available releases</a>
-</p> 
-With a newer releases app will be more better and stable. Please, try to download the leatest released app.
 
 <p style="text-align: center;">
-  <a href="https://github.com/StudioAsInc/ChatOS/releases/tag/ChatOS" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007BFF; text-decoration: none; border-radius: 5px;">Download ChatOS</a>
+<p style="text-align: center;">
+  <a href="https://github.com/StudioAsInc/ChatOS/releases/tag/ChatOS" style="display: inline-block;">
+    <img src="https://i.ibb.co/9GDfND7/20240807-114005.png" alt="Download Button" style="width: 100%; max-width: 150px; display: block; margin: 0 auto;"/>
+  </a>
 </p>
+
+With a newer releases app will be more better and stable. Please, try to download the leatest released app.
 
 ## Features
 
