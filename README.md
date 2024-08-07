@@ -69,11 +69,32 @@ What to know more?
 
 ## Contact
 
-Md Ashik
-mashikahamed0@gmail.com
-Telegram
-https://t.me/IamAshik_tg
-
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <tr style="border-bottom: 1px solid #ddd;">
+    <th style="padding: 8px;">Socials</th>
+    <th style="padding: 8px;">Hndle</th>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Email</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="mailto:mashikahamed0@gmail.com">mashikahamed0@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Telegram</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://t.me/IamAshik_tg">@IamAshik_tg</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Facebook</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://facebook.com/IamAshik">IamAshik.fb</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Twitter</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://x.com/IamAshik_x">IamAshik_x</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">Instagram</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://instagram.com/IamAshik.fb">IamAshik</a></td>
+  </tr>
+</table>
 ## Donation
 Donation is allowed right now because the project has 0 cost.
 
