@@ -17,16 +17,16 @@ We're regularly pushing update, we recommend you to download the leatest release
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Download Size</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">~15 MB</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">~15.5 MB</td>
   </tr>
   <tr>
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">Latest Version</td>
-    <td style="padding: 8px; border-bottom: 1px solid #ddd;">1.0 (nightmare)</td>
+    <td style="padding: 8px; border-bottom: 1px solid #ddd;">1.0.1(beta)</td>
   </tr>
 </table>
 <p style="text-align: center;">
 <p style="text-align: center;">
-  <a href="https://github.com/StudioAsInc/ChatOS/releases/download/ChatOS/pre-alpha_v1.0.apk" style="display: inline-block;">
+  <a href="https://github.com/StudioAsInc/ChatOS/releases/download/ChatOS/ChatOS_v1.0.1.apk" style="display: inline-block;">
     <img src="https://i.ibb.co/9GDfND7/20240807-114005.png" alt="Download Button" style="width: 100%; max-width: 150px; display: block; margin: 0 auto;"/>
   </a>
 </p>
@@ -37,6 +37,7 @@ With a newer releases app will be more better and stable.
 
 
 ## What's new?
+● Theme settings added.
 
 | **What's New**                        | **Details**                                    |
 |---------------------------------------|------------------------------------------------|
